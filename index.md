@@ -1,5 +1,5 @@
-# *Insert project title here*
-## *Insert your name here* ##
+# *Mayan Moon Phase Calculator*
+## *Akshya Aravnd Anand* ##
 ## 7515QCA Making Interaction 2020 Final Project ##
 
 <!--- Instructions for the journal will mostly be included as comments, which appear in a block like this that opens with a less than symbol, exclamation mark and three hyphens and closes with three hyphens and a greater than symbol. Make sure you do not include any text you want visible within these symbols or it will not be visible to your instructor. In some cases, such as in headings, there is italicised text included between asterisks that needs to be replaced. --->
@@ -11,7 +11,7 @@
 The image should be inserted with code like that below where you replace the filename to exactly match what you uploaded. This will only work reliably if your filename has no spaces or unusual characters in it. The image must be in .jpg, .gif, .png format. Files of .heic or .heif type will not show up.
 --->
 
-![Image](missingimage.png)
+![Image](002.jpg)
 
 <!--- PROJECT DESCRIPTION: In a few sentences, describe what the project is and does, who it is for, and a typical use case. This should be suitable for a catalog, poster, or other display material about the project. --->
 
